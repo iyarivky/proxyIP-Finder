@@ -18,7 +18,7 @@ const helloWorldExample :Workerd.Config = (
   # Each configuration defines the sockets on which the server will listen.
   # Here, we create a single socket that will listen on localhost port 8080, and will
   # dispatch to the "main" service that we defined above.
-  sockets = [ ( name = "http", address = "*:8080", http = (), service = "main" ) ]
+  sockets = [ ( name = "http", address = "*:6789", http = (), service = "main" ) ]
 );
 
 # The definition of the actual helloWorld worker exposed using the "main" service.
