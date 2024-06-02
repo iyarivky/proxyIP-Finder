@@ -1,0 +1,541 @@
+[
+  {
+    "asn": "AS133800",
+    "name": "PT Biznet Gio Nusantara",
+    "country": "id",
+    "numberOfIps": 27648,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS136052",
+    "name": "PT Cloud Hosting Indonesia",
+    "country": "id",
+    "numberOfIps": 21760,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS38482",
+    "name": "Biznet ISP",
+    "country": "id",
+    "numberOfIps": 17152,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS140443",
+    "name": "PT Herza Digital Indonesia",
+    "country": "id",
+    "numberOfIps": 13312,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS45287",
+    "name": "Varnion Technology Semesta, PT",
+    "country": "id",
+    "numberOfIps": 11264,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS38778",
+    "name": "PT. Dutakom Wibawa Putra",
+    "country": "id",
+    "numberOfIps": 11008,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS58397",
+    "name": "PT Infinys System Indonesia",
+    "country": "id",
+    "numberOfIps": 10240,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS136170",
+    "name": "PT. EXABYTES NETWORK INDONESIA",
+    "country": "id",
+    "numberOfIps": 7424,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS58487",
+    "name": "CV. Rumahweb Indonesia",
+    "country": "id",
+    "numberOfIps": 6912,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS45325",
+    "name": "PT PC24 Telekomunikasi Indonesia",
+    "country": "id",
+    "numberOfIps": 6912,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS131745",
+    "name": "PT. Cybertechtonic Pratama",
+    "country": "id",
+    "numberOfIps": 6912,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS55688",
+    "name": "PT. Beon Intermedia",
+    "country": "id",
+    "numberOfIps": 5120,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS24195",
+    "name": "PT. Dhecyber Flow Indonesia",
+    "country": "id",
+    "numberOfIps": 5120,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS135636",
+    "name": "Rackh Lintas Asia, pt",
+    "country": "id",
+    "numberOfIps": 5120,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS55701",
+    "name": "PT. Usaha Adisanggoro",
+    "country": "id",
+    "numberOfIps": 4864,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS58404",
+    "name": "PT Qwords Company International",
+    "country": "id",
+    "numberOfIps": 4608,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS24527",
+    "name": "Internet Service Provider",
+    "country": "id",
+    "numberOfIps": 4608,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS140389",
+    "name": "PT Dewa Bisnis Digital",
+    "country": "id",
+    "numberOfIps": 4608,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS58477",
+    "name": "Argon Data Communication",
+    "country": "id",
+    "numberOfIps": 4352,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS45731",
+    "name": "ARDH GLOBAL INDONESIA, PT",
+    "country": "id",
+    "numberOfIps": 4352,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS45302",
+    "name": "PT DES Teknologi Informasi",
+    "country": "id",
+    "numberOfIps": 4096,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS137289",
+    "name": "PT. SIGMA CIPTA CARAKA",
+    "country": "id",
+    "numberOfIps": 4096,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS132644",
+    "name": "PT. Cyberindo Mega Persada",
+    "country": "id",
+    "numberOfIps": 4096,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS58381",
+    "name": "Wow Internet Indonesia",
+    "country": "id",
+    "numberOfIps": 3840,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS141968",
+    "name": "PT Industri Kreatif Digital",
+    "country": "id",
+    "numberOfIps": 3840,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS24211",
+    "name": "PT. Detik Ini JUga",
+    "country": "id",
+    "numberOfIps": 3072,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS139456",
+    "name": "PT DEWAWEB",
+    "country": "id",
+    "numberOfIps": 3072,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS58820",
+    "name": "APIK Media Networks",
+    "country": "id",
+    "numberOfIps": 2816,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS55669",
+    "name": "PT. Maxindo Content Solution",
+    "country": "id",
+    "numberOfIps": 2816,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS139989",
+    "name": "CV Atha Media Prima",
+    "country": "id",
+    "numberOfIps": 2816,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS59147",
+    "name": "PT. Drupadi Prima",
+    "country": "id",
+    "numberOfIps": 2560,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS38760",
+    "name": "PT Media Sarana Akses",
+    "country": "id",
+    "numberOfIps": 2560,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS17884",
+    "name": "PT. Uninet Media Sakti (ISP)",
+    "country": "id",
+    "numberOfIps": 2560,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS151000",
+    "name": "PT Awan Data Indonesia",
+    "country": "id",
+    "numberOfIps": 2560,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS141107",
+    "name": "PT Linkgo Metro Teknologi",
+    "country": "id",
+    "numberOfIps": 2560,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS137331",
+    "name": "PT Cloud Teknologi Nusantara",
+    "country": "id",
+    "numberOfIps": 2560,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS134612",
+    "name": "PT Atria Teknologi Indonesia",
+    "country": "id",
+    "numberOfIps": 2560,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS132634",
+    "name": "Direktorat E-Goverment Kementerian KOMINFO",
+    "country": "id",
+    "numberOfIps": 2560,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS131775",
+    "name": "PT. Jupiter Jala Arta",
+    "country": "id",
+    "numberOfIps": 2560,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS138131",
+    "name": "CV. NATANETWORK SOLUTION",
+    "country": "id",
+    "numberOfIps": 2304,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS45146",
+    "name": "PT. Raja Sepadan Abadi",
+    "country": "id",
+    "numberOfIps": 2048,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS38788",
+    "name": "PT Indonesian Cloud",
+    "country": "id",
+    "numberOfIps": 2048,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS141892",
+    "name": "CV Andhika Pratama Sanggoro",
+    "country": "id",
+    "numberOfIps": 2048,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS45289",
+    "name": "Indotrans Data, PT",
+    "country": "id",
+    "numberOfIps": 1792,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS135444",
+    "name": "PT Ikubaru Indonesia",
+    "country": "id",
+    "numberOfIps": 1792,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS46050",
+    "name": "PT JC Indonesia",
+    "country": "id",
+    "numberOfIps": 1536,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS50104",
+    "name": "PT Pedjoeang Digital Networks",
+    "country": "id",
+    "numberOfIps": 1280,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS211407",
+    "name": "PT Perwira Media Solusi",
+    "country": "id",
+    "numberOfIps": 1280,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS149948",
+    "name": "PT Magna Network",
+    "country": "id",
+    "numberOfIps": 1280,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS141120",
+    "name": "PT Warna Data Multimedia",
+    "country": "id",
+    "numberOfIps": 1280,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS138115",
+    "name": "PT Deneva",
+    "country": "id",
+    "numberOfIps": 1280,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS135450",
+    "name": "PT Berkah Solusi Teknologi Informasi",
+    "country": "id",
+    "numberOfIps": 1280,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS38767",
+    "name": "PT Awan Media Semesta",
+    "country": "id",
+    "numberOfIps": 1024,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS140456",
+    "name": "PT Era Awan Digital",
+    "country": "id",
+    "numberOfIps": 1024,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS139457",
+    "name": "PT Semut Data Indonesia",
+    "country": "id",
+    "numberOfIps": 1024,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS138069",
+    "name": "PT CITRAWEB DIGITAL MULTISOLUSI",
+    "country": "id",
+    "numberOfIps": 1024,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS138062",
+    "name": "PT. Awan Kilat Semesta",
+    "country": "id",
+    "numberOfIps": 1024,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS132653",
+    "name": "PT Transdata Sejahtera",
+    "country": "id",
+    "numberOfIps": 1024,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS131749",
+    "name": "PT. Arthatama Adhiprima Persada",
+    "country": "id",
+    "numberOfIps": 1024,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS136851",
+    "name": "PT ARDETAMEDIA GLOBAL KOMPUTINDO",
+    "country": "id",
+    "numberOfIps": 768,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS45324",
+    "name": "Global Media Teknologi, PT",
+    "country": "id",
+    "numberOfIps": 512,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS150949",
+    "name": "PT RumahNET Internusa",
+    "country": "id",
+    "numberOfIps": 512,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS150493",
+    "name": "PT Gunung Sedayu Sentosa",
+    "country": "id",
+    "numberOfIps": 512,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS150482",
+    "name": "PT Gapura Era Digital",
+    "country": "id",
+    "numberOfIps": 512,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS149705",
+    "name": "PT Wijaya Trimitra Indonesia",
+    "country": "id",
+    "numberOfIps": 512,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS149391",
+    "name": "PT Delta Awan Angkasa",
+    "country": "id",
+    "numberOfIps": 512,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS147134",
+    "name": "PT IndoWebhost Kreasi",
+    "country": "id",
+    "numberOfIps": 512,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS147124",
+    "name": "PT Hostingan Awan Indonesia",
+    "country": "id",
+    "numberOfIps": 512,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS142382",
+    "name": "PT Klinik Digital Indonesia JNHOST",
+    "country": "id",
+    "numberOfIps": 512,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS141947",
+    "name": "PT Loveika Host Nusantara",
+    "country": "id",
+    "numberOfIps": 512,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS141929",
+    "name": "PT Daniswara Citra Informatika",
+    "country": "id",
+    "numberOfIps": 512,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS141623",
+    "name": "PT Registrasi Neva Angkasa",
+    "country": "id",
+    "numberOfIps": 512,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS139995",
+    "name": "PT. Akashia Thuba Jaya",
+    "country": "id",
+    "numberOfIps": 512,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS137341",
+    "name": "WHEEHOST",
+    "country": "id",
+    "numberOfIps": 512,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS38060",
+    "name": "Biznet NAP - Internet Exchange Provider",
+    "country": "id",
+    "numberOfIps": 256,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS151597",
+    "name": "PT Valmich Hosting Indonesia",
+    "country": "id",
+    "numberOfIps": 256,
+    "type": "hosting"
+  },
+  {
+    "asn": "AS149662",
+    "name": "PT Hostnet Data Global",
+    "country": "id",
+    "numberOfIps": 256,
+    "type": "hosting"
+  }
+]
