@@ -1,3 +1,5 @@
+const fs = require('fs/promises');
+
 async function fetchASNName(asn) {
 	try {
 		const response = await fetch(`https://ipinfo.io/${asn}`)
@@ -14,6 +16,7 @@ async function fetchASNName(asn) {
 		console.error('Error fetching or parsing HTML', error)
 	}
 }
+
 async function fetchASNNetblocks(asn) {
 	try {
 		const response = await fetch(`https://ipinfo.io/${asn}`);
@@ -82,9 +85,28 @@ async function scanASNIPs(asn) {
 	return ips;
 }
 
-let Asn = "AS58397"
-let asnName = await fetchASNName(Asn)
-console.log(asnName)
-scanASNIPs(Asn).then(dataID => {
-	Bun.write(`asnpool-ID/${asnName}.json`, JSON.stringify(dataID, null, 2));
-});
+async function main() {
+	try {
+		// Baca file hosting-id.json
+		const data = await Bun.file("hosting-id.json").text();
+		const asnList = JSON.parse(data);
+
+		for (const asnData of asnList) {
+			const { asn, name } = asnData;
+			console.log(`Processing ASN: ${asn}, Name: ${name}`);
+			
+			// Dapatkan nama ASN dan IPs
+			const asnName = await fetchASNName(asn);
+			const ips = await scanASNIPs(asn);
+
+			// Simpan data ke file JSON
+            Bun.write(`asnpool-ID/${asnName}.json`, JSON.stringify(ips, null, 2));
+		}
+
+		console.log('Processing completed.');
+	} catch (error) {
+		console.error('Error:', error);
+	}
+}
+
+main();
