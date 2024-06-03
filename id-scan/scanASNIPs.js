@@ -1,5 +1,3 @@
-const fs = require('fs/promises');
-
 async function fetchASNName(asn) {
 	try {
 		const response = await fetch(`https://ipinfo.io/${asn}`)
