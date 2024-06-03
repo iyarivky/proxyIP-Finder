@@ -82,9 +82,9 @@ async function scanASNIPs(asn) {
 	return ips;
 }
 
-let Asn = "AS18059"
-let asnName = await fetchASNName("AS18059")
+let Asn = "AS58397"
+let asnName = await fetchASNName(Asn)
 console.log(asnName)
 scanASNIPs(Asn).then(dataID => {
-	Bun.write(`${asnName}.json`, JSON.stringify(dataID, null, 2));
+	Bun.write(`asnpool-ID/${asnName}.json`, JSON.stringify(dataID, null, 2));
 });
