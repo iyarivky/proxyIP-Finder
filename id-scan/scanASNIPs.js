@@ -85,7 +85,6 @@ async function scanASNIPs(asn) {
 
 async function main() {
 	try {
-		// Baca file hosting-id.json
 		const data = await Bun.file("hosting-id.json").text();
 		const asnList = JSON.parse(data);
 
@@ -93,11 +92,9 @@ async function main() {
 			const { asn, name } = asnData;
 			console.log(`Processing ASN: ${asn}, Name: ${name}`);
 			
-			// Dapatkan nama ASN dan IPs
 			const asnName = await fetchASNName(asn);
 			const ips = await scanASNIPs(asn);
 
-			// Simpan data ke file JSON
             Bun.write(`asnpool-ID/${asnName}.json`, JSON.stringify(ips, null, 2));
 		}
 
